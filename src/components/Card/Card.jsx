@@ -12,7 +12,7 @@ const Card = ({ donation }) => {
       backgroundColor: `${categoryBackground}`
    }
 
-
+  console.log(donation);
    return (
       <Link to={`/${id}`}>
          <div style={customStyle} className={`card card-compact shadow-xl`}>
