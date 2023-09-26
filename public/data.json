@@ -1,0 +1,135 @@
+[
+   {
+     "id": 1,
+     "picture": "./Rectangle 4284.png",
+     "title": "Clean water for children",
+     "category": "Health",
+     "categoryBackground": "#0052FF33",
+     "cardBackgroundColor": "#0052FF26",
+     "textAndButtonBackgroundColor": "#0052FF",
+     "description": "Clean water is essential for proper hydration, sanitation, and overall well-being. Inadequate access to clean water exposes children to waterborne diseases, hindering their growth and development. Clean Water for Children seeks to break this cycle of suffering by implementing sustainable water purification and distribution systems.",
+     "price": 99.99
+   },
+   {
+     "id": 2,
+     "picture": "./Rectangle 4287-1.png",
+     "title": "Good education",
+     "category": "Education",
+     "categoryBackground": "#FF444A33",
+     "cardBackgroundColor": "#FF444A26",
+     "textAndButtonBackgroundColor": "#FF444A",
+     "description": "Good education is the key to unlocking human potential. It transcends mere information transfer, encompassing critical thinking, problem-solving, and character development. A quality education not only imparts knowledge but also nurtures creativity, empathy, and resilience. It equips individuals with the tools to adapt in a rapidly changing world and make informed decisions. Moreover, it promotes inclusivity, breaking down barriers to access and ensuring that every individual, regardless of background, has the opportunity to thrive. Good education is the cornerstone of personal fulfillment and societal progress, shaping a brighter, more equitable future for all.",
+     "price": 79.95
+   },
+   {
+     "id": 3,
+     "picture": "./Rectangle 4287.png",
+     "title": "Used Clothing Drive",
+     "category": "Clothing",
+     "categoryBackground": "#79C23F33",
+     "cardBackgroundColor": "#79C23F26",
+     "textAndButtonBackgroundColor": "#79C23F",
+     "description": "A Used Clothing Drive is a community-driven effort to collect and distribute second-hand clothing to those in need. It embodies the spirit of compassion and sustainability, as it not only provides essential garments to individuals and families facing economic challenges but also reduces textile waste. Through the generosity of donors and volunteers, these drives offer a chance for communities to come together, support one another, and make a positive impact on both the environment and the lives of those less fortunate.",
+     "price": 149.99
+   },
+   {
+     "id": 4,
+     "picture": "./Rectangle 4287-2.png",
+     "title": "Better Food for Everyone",
+     "category": "Food",
+     "categoryBackground": "#F8714726",
+     "cardBackgroundColor": "#F871471F",
+     "textAndButtonBackgroundColor": "#F87147",
+     "description": "Better Food for Everyone is a transformative mission that seeks to revolutionize how we produce, distribute, and consume food. It advocates for sustainable, nutritious, and equitable food systems. By promoting responsible farming practices, reducing food waste, and ensuring affordability and accessibility, it aims to improve global health, protect the environment, and alleviate food insecurity. This initiative invites individuals and communities to embrace healthier eating habits, supporting a brighter future where everyone enjoys the benefits of good nutrition and a more sustainable planet",
+     "price": 79.99
+   },
+   {
+     "id": 5,
+     "picture": "./Rectangle 4287-2.png",
+     "title": "Better Food for Everyone",
+     "category": "Food",
+     "categoryBackground": "#F8714726",
+     "cardBackgroundColor": "#F871471F",
+     "textAndButtonBackgroundColor": "#F87147",
+     "description": "Better Food for Everyone is a transformative mission that seeks to revolutionize how we produce, distribute, and consume food. It advocates for sustainable, nutritious, and equitable food systems. By promoting responsible farming practices, reducing food waste, and ensuring affordability and accessibility, it aims to improve global health, protect the environment, and alleviate food insecurity. This initiative invites individuals and communities to embrace healthier eating habits, supporting a brighter future where everyone enjoys the benefits of good nutrition and a more sustainable planet",
+     "price": 79.99
+   },
+   {
+     "id": 6,
+     "picture": "./Rectangle 4287.png",
+     "title": "Used Clothing Drive",
+     "category": "Clothing",
+     "categoryBackground": "#79C23F33",
+     "cardBackgroundColor": "#79C23F26",
+     "textAndButtonBackgroundColor": "#79C23F",
+     "description": "A Used Clothing Drive is a community-driven effort to collect and distribute second-hand clothing to those in need. It embodies the spirit of compassion and sustainability, as it not only provides essential garments to individuals and families facing economic challenges but also reduces textile waste. Through the generosity of donors and volunteers, these drives offer a chance for communities to come together, support one another, and make a positive impact on both the environment and the lives of those less fortunate.",
+     "price": 149.99
+   },
+   {
+     "id": 7,
+     "picture": "./Rectangle 4287-1.png",
+     "title": "Good education",
+     "category": "Education",
+     "categoryBackground": "#FF444A33",
+     "cardBackgroundColor": "#FF444A26",
+     "textAndButtonBackgroundColor": "#FF444A",
+     "description": "Good education is the key to unlocking human potential. It transcends mere information transfer, encompassing critical thinking, problem-solving, and character development. A quality education not only imparts knowledge but also nurtures creativity, empathy, and resilience. It equips individuals with the tools to adapt in a rapidly changing world and make informed decisions. Moreover, it promotes inclusivity, breaking down barriers to access and ensuring that every individual, regardless of background, has the opportunity to thrive. Good education is the cornerstone of personal fulfillment and societal progress, shaping a brighter, more equitable future for all.",
+     "price": 79.95
+   },
+   {
+     "id": 8,
+     "picture": "./Rectangle 4284.png",
+     "title": "Clean water for children",
+     "category": "Health",
+     "categoryBackground": "#0052FF33",
+     "cardBackgroundColor": "#0052FF26",
+     "textAndButtonBackgroundColor": "#0052FF",
+     "description": "Clean water is essential for proper hydration, sanitation, and overall well-being. Inadequate access to clean water exposes children to waterborne diseases, hindering their growth and development. Clean Water for Children seeks to break this cycle of suffering by implementing sustainable water purification and distribution systems.",
+     "price": 99.99
+   },
+   {
+     "id": 9,
+     "picture": "./Rectangle 4284.png",
+     "title": "Clean water for children",
+     "category": "Health",
+     "categoryBackground": "#0052FF33",
+     "cardBackgroundColor": "#0052FF26",
+     "textAndButtonBackgroundColor": "#0052FF",
+     "description": "Clean water is essential for proper hydration, sanitation, and overall well-being. Inadequate access to clean water exposes children to waterborne diseases, hindering their growth and development. Clean Water for Children seeks to break this cycle of suffering by implementing sustainable water purification and distribution systems.",
+     "price": 99.99
+   },
+   {
+     "id": 10,
+     "picture": "./Rectangle 4287-1.png",
+     "title": "Good education",
+     "category": "Education",
+     "categoryBackground": "#FF444A33",
+     "cardBackgroundColor": "#FF444A26",
+     "textAndButtonBackgroundColor": "#FF444A",
+     "description": "Good education is the key to unlocking human potential. It transcends mere information transfer, encompassing critical thinking, problem-solving, and character development. A quality education not only imparts knowledge but also nurtures creativity, empathy, and resilience. It equips individuals with the tools to adapt in a rapidly changing world and make informed decisions. Moreover, it promotes inclusivity, breaking down barriers to access and ensuring that every individual, regardless of background, has the opportunity to thrive. Good education is the cornerstone of personal fulfillment and societal progress, shaping a brighter, more equitable future for all.",
+     "price": 79.95
+   },
+   {
+     "id": 11,
+     "picture": "./Rectangle 4287.png",
+     "title": "Used Clothing Drive",
+     "category": "Clothing",
+     "categoryBackground": "#79C23F33",
+     "cardBackgroundColor": "#79C23F26",
+     "textAndButtonBackgroundColor": "#79C23F",
+     "description": "A Used Clothing Drive is a community-driven effort to collect and distribute second-hand clothing to those in need. It embodies the spirit of compassion and sustainability, as it not only provides essential garments to individuals and families facing economic challenges but also reduces textile waste. Through the generosity of donors and volunteers, these drives offer a chance for communities to come together, support one another, and make a positive impact on both the environment and the lives of those less fortunate.",
+     "price": 149.99
+   },
+   {
+     "id": 12,
+     "picture": "./Rectangle 4287-2.png",
+     "title": "Better Food for Everyone",
+     "category": "Food",
+     "categoryBackground": "#F8714726",
+     "cardBackgroundColor": "#F871471F",
+     "textAndButtonBackgroundColor": "#F87147",
+     "description": "Better Food for Everyone is a transformative mission that seeks to revolutionize how we produce, distribute, and consume food. It advocates for sustainable, nutritious, and equitable food systems. By promoting responsible farming practices, reducing food waste, and ensuring affordability and accessibility, it aims to improve global health, protect the environment, and alleviate food insecurity. This initiative invites individuals and communities to embrace healthier eating habits, supporting a brighter future where everyone enjoys the benefits of good nutrition and a more sustainable planet",
+     "price": 79.99
+   }
+ ]
+ 
