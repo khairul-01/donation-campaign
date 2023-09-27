@@ -15,6 +15,7 @@ const DonationDetails = () => {
       backgroundColor: `${textAndButtonBackgroundColor}`,
       color: 'white'
    }
+
    
    const handleDonate = () => {
       const donations = getStoredDonations();
@@ -31,7 +32,7 @@ const DonationDetails = () => {
    return (
       <div className="space-y-7">
          <div className="relative">
-            <img className="w-full rounded-lg h-[600px]" src={`${picture}`} alt="" />
+            <img className="w-full rounded-lg " src={`${picture}`} alt="" />
             <div className="absolute bg-neutral-900 mix-blend-overlay h-40 bottom-0 w-full">
             </div>
             <button onClick={handleDonate} style={btnColor} className="btn ml-16 absolute bottom-14">Donate ${price}</button>

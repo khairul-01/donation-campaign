@@ -16,16 +16,16 @@ const Header = () => {
             </div> */}
             <div className="navbar-end">
                <div className="dropdown">
-                  <label tabIndex={0} className="btn btn-ghost md:hidden">
+                  <label tabIndex={0} className="btn btn-ghost sm:hidden">
                      <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
                   </label>
-                  <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 rounded-box w-52">
+                  <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 rounded-box">
                      <li className="side"><NavLink to={"/"}>Home</NavLink></li>
                      <li className="side"><NavLink to={"/donation"}>Donation</NavLink></li>
                      <li className="side"><NavLink to={"/statistics"}>Statistics</NavLink></li>
                   </ul>
                </div>
-               <div className="hidden md:flex">
+               <div className="hidden sm:flex">
                   <ul className="flex gap-5 px-1">
                      <li className="side"><NavLink to={"/"}>Home</NavLink></li>
                      <li className="side"><NavLink to={"/donation"}>Donation</NavLink></li>
